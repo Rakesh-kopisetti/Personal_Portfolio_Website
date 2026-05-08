@@ -7,22 +7,22 @@ const CONTACT_LINKS = [
   {
     icon: <Mail size={22} />,
     label: 'Email',
-    value: 'rakshkoppisetti5@gmail.com',
-    href: 'mailto:rakshkoppisetti5@gmail.com',
+    value: 'rakeshkoppisetti5@gmail.com',
+    href: 'https://formspree.io/f/xnjwgnbq',
     color: 'var(--accent)',
   },
   {
     icon: <Github size={22} />,
     label: 'GitHub',
     value: 'github.com/rakeshkoppisetti',
-    href: 'https://github.com/rakeshkoppisetti',
+    href: 'https://github.com/Rakesh-kopisetti/',
     color: 'var(--text-secondary)',
   },
   {
     icon: <Linkedin size={22} />,
     label: 'LinkedIn',
     value: 'linkedin.com/in/rakeshkoppisetti',
-    href: 'https://linkedin.com/in/rakeshkoppisetti',
+    href: 'https://www.linkedin.com/in/rakesh-koppisetti-8885a9317/',
     color: '#0a66c2',
   },
   {
@@ -129,7 +129,7 @@ export default function Contact() {
                 opportunities to be part of your vision.
               </p>
               <a
-                href="mailto:rakshkoppisetti5@gmail.com"
+                href="https://formspree.io/f/xnjwgnbq"
                 className="contact__card-btn"
               >
                 <Mail size={18} />
@@ -140,7 +140,7 @@ export default function Contact() {
               </div>
               <div className="contact__card-socials">
                 <a
-                  href="https://github.com/rakeshkoppisetti"
+                  href="https://github.com/Rakesh-kopisetti/"
                   className="contact__card-social"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -150,7 +150,7 @@ export default function Contact() {
                   GitHub
                 </a>
                 <a
-                  href="https://linkedin.com/in/rakeshkoppisetti"
+                  href="https://www.linkedin.com/in/rakesh-koppisetti-8885a9317/"
                   className="contact__card-social contact__card-social--linkedin"
                   target="_blank"
                   rel="noopener noreferrer"

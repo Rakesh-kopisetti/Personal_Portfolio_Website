@@ -38,10 +38,10 @@ const TIMELINE = [
 ]
 
 const CERTS = [
-  { name: 'Flutter Development Certification', link: '#' },
+  { name: 'Flutter Development Certification', link: 'https://drive.google.com/file/d/1pi-9F_TNkCTlRD9gCnyXSdhfHIfSQKzT/view' },
   { name: 'Java Programming Certification', link: '#' },
-  { name: 'MongoDB Associate Developer Certificate', link: '#' },
-  { name: 'Postman Certificate', link: '#' },
+  { name: 'MongoDB Associate Developer Certificate', link: 'https://drive.google.com/file/d/1kRu5XTjfkPqe9xDeoQGhv8Ea1b9EicoR/view?usp=sharing' },
+  { name: 'Postman Certificate', link: 'https://drive.google.com/file/d/1n3MgZy8lTg6leb4rWdUp-ZJHZrR3GTY2/view?usp=drive_link' },
 ]
 
 export default function Experience() {

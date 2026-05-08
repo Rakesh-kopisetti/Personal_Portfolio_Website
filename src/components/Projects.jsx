@@ -15,7 +15,7 @@ const PROJECTS = [
       'Offline support & regional language accessibility',
       'Firebase Authentication & Firestore',
     ],
-    github: 'https://github.com/rakeshkoppisetti',
+    github: 'https://github.com/Rakesh-kopisetti/grameeno.git',
     color: 'var(--accent)',
     number: '01',
   },
@@ -30,7 +30,7 @@ const PROJECTS = [
       'Real-time video calling via ZegoCloud',
       'CGPA tracking & performance analytics',
     ],
-    github: 'https://github.com/rakeshkoppisetti',
+    github: 'https://github.com/Rakesh-kopisetti/study_mate.git',
     color: 'var(--accent-2)',
     number: '02',
   },
@@ -45,7 +45,7 @@ const PROJECTS = [
       'Real-time data handling & seamless app functionality',
       'Clean, scalable code architecture',
     ],
-    github: 'https://github.com/rakeshkoppisetti',
+    github: 'https://github.com/Rakesh-kopisetti/',
     color: 'var(--accent-3)',
     number: '03',
   },
@@ -141,7 +141,7 @@ export default function Projects() {
           transition={{ delay: 0.7 }}
         >
           <a
-            href="https://github.com/rakeshkoppisetti"
+            href="https://github.com/Rakesh-kopisetti/"
             className="projects__github-link"
             target="_blank"
             rel="noopener noreferrer"

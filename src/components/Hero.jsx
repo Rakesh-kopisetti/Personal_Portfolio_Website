@@ -4,8 +4,8 @@ import { Github, Linkedin, Mail, Phone, ArrowDown } from 'lucide-react'
 import './Hero.css'
 
 const SOCIAL = [
-  { href: 'https://github.com/rakeshkoppisetti', icon: <Github size={20} />, label: 'GitHub' },
-  { href: 'https://linkedin.com/in/rakeshkoppisetti', icon: <Linkedin size={20} />, label: 'LinkedIn' },
+  { href: 'https://github.com/Rakesh-kopisetti/', icon: <Github size={20} />, label: 'GitHub' },
+  { href: 'https://www.linkedin.com/in/rakesh-koppisetti-8885a9317/', icon: <Linkedin size={20} />, label: 'LinkedIn' },
   { href: 'mailto:rakshkoppisetti5@gmail.com', icon: <Mail size={20} />, label: 'Email' },
   { href: 'tel:+919177882167', icon: <Phone size={20} />, label: 'Phone' },
 ]
